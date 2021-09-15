@@ -1,0 +1,30 @@
+table{
+    border:3px solid #F46113;
+    margin: auto;
+}
+
+td{
+    text-align: justify;
+    border-top: 1px solid #F46113;
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#fddbe3 ;
+    color:balck;
+}
+
+h1,h3{
+    color:#F46113 ;
+}
+
+th{
+    background-color: #005B22;
+    color: white;
+}
+
+th,td{
+    padding:5px
+}
+
